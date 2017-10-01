@@ -156,6 +156,8 @@ public class MainActivity extends Activity {
                         }
                     }
                 }
+                answers.clear();
+                generateQuestion();
                 break;
         }
 
